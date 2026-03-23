@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Create a `links.txt` file with one URL per line
+1. Parse links into links.txt using ff_links_parser.py (#command given below in #Examples)
 2. Run:
 
 ```bash
