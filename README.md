@@ -48,6 +48,10 @@ python batch_download.py --concurrent 1 --start-from 50
 
 # Custom output directory
 python batch_download.py --output-dir ./my_files
+
+# fetch f*ckingfast links from a given url
+python ff_links_parser.py your_copied_link
+
 ```
 
 ## How It Works
